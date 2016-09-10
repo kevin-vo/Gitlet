@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/ucb.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/graph-demo.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/hamcrest-core-1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/jhave.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/jpt.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit-4.4-src.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit-4.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/junit-4.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/loader.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/mapq.jar"/>
+	<classpathentry kind="lib" path="/home/ff/cs61b/lib/ucb-f2007.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
